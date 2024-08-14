@@ -1387,5 +1387,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2024-08-14 17:14:49 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2024-08-14 17:14:49 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
